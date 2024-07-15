@@ -1,0 +1,7 @@
+2024-07-15 00:48:56,314 INFO ============= Start ============
+2024-07-15 00:48:56,530 INFO No evasive samples, sleep...
+2024-07-15 00:49:03,261 INFO d7b8e4cc: [SA,SA,SR,SR,SA,SA,SA] (3, 0) [SA1,SA,SR,--,SA,SA,SA]
+2024-07-15 00:49:03,336 INFO 03fada7e: [FAIL] output/minimizer_output/03fada7ed6e62adf8f828294adddfa65b6819e18f3764a145e586d15170ea9eb.CR.SA.SA1.SR
+2024-07-15 00:49:03,337 INFO 38c56a88: [FAIL] output/minimizer_output/38c56a8836f00197d20c7a78c9bfdb52dca1c5f94286642d93c0568d039347b1.SA.SA.SR.SA.SA.SA.SA
+2024-07-15 00:49:03,338 INFO 46f4f5b6: [FAIL] output/minimizer_output/46f4f5b6cc00d4c2af90109bbb8b220eac3dc55b31d77794ab851e392776b7aa.SA.SA.SA.SA.SA.OA
+2024-07-15 00:49:03,338 ERROR cannot find original evasive sample

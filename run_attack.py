@@ -27,6 +27,9 @@ if __name__ == '__main__':
     #重みの読み込み
     if args.load_bandit is not None:
         bandit.load_state(args.load_bandit)
+    else:
+        Utils.create_folders()
+        
     samples_manager = SamplesManager(Utils.get_malware_folder(), bandit)
 
     print('\n### Log can be found in the log/ folder ###\n')
